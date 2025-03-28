@@ -1,1 +1,11 @@
-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
+streamlit
+hashlib
+gtts
+langchain
+langchain-community
+langchain-groq
+pymongo
+torch
+transformers
+sentence-transformers
+pypdf
